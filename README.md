@@ -1,4 +1,4 @@
-> The colors of [@sathmin's](https://github.com/Sathmin-Januth) beautiful [Nora Cora color scheme](https://github.com/Sathmin-Januht/NoraCora-Theme) extracted as a NPM package.
+> The colors of [@sathmin's](https://github.com/Sathmin-Januth) beautiful [Nora Cora color scheme](https://github.com/Sathmin-Januth/NoraCora-Theme) extracted as a NPM package.
 
 ### Installation
 
