@@ -1,6 +1,6 @@
 {
   "name": "nora-cora",
-  "version": "1.0.2",
+  "version": "1.0.0",
   "description": "The Nora Cora is the best!",
   "main": "dist/colors.js",
   "types": "dist/colors.d.ts",
