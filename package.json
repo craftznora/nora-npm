@@ -1,6 +1,6 @@
 {
   "name": "nora",
-  "version": "8.0.1",
+  "version": "1.0.0",
   "description": "The Nora Cora is the best!",
   "main": "dist/colors.js",
   "types": "dist/colors.d.ts",
@@ -34,5 +34,8 @@
     "@types/chroma-js": "^2.0.0",
     "chroma-js": "^2.1.0",
     "nonenumerable": "^1.1.1"
-  }
+  },
+  "keywords": [
+    "nora"
+  ]
 }
