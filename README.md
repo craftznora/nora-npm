@@ -3,8 +3,8 @@
 ### Installation
 
 ```
-npm install --save nora-cora
-yarn add nora-cora
+npm install --save nora-theme
+yarn add nora-theme
 ```
 
 ### Usage

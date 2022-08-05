@@ -1,6 +1,6 @@
 {
   "name": "nora-theme",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "The NoraCora-Theme is the best!",
   "main": "dist/colors.js",
   "types": "dist/colors.d.ts",
