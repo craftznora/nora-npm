@@ -1,7 +1,7 @@
 {
-  "name": "nora-cora",
+  "name": "nora-theme",
   "version": "1.0.0",
-  "description": "The Nora Cora is the best!",
+  "description": "The NoraCora-Theme is the best!",
   "main": "dist/colors.js",
   "types": "dist/colors.d.ts",
   "scripts": {
@@ -36,6 +36,6 @@
     "nonenumerable": "^1.1.1"
   },
   "keywords": [
-    "nora"
+    "nora-theme"
   ]
 }
